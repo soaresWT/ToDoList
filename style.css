@@ -34,7 +34,7 @@ body {
 
 .todo {
     display: flex;
-    width: 50vw;
+    width: 75vw;
     flex-direction: column;
     align-items: center;
     margin: 0 auto;
